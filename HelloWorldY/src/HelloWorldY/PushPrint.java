@@ -7,6 +7,7 @@ public class PushPrint {
 		System.out.println("HelloWorldY Add Java Class File Push");
 		System.out.println("World with Miku");			
 		System.out.println("World with 421");
+		System.out.println("World with Hatsune");		
 	}
 
 }
